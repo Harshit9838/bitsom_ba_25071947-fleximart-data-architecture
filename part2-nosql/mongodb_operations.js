@@ -1,3 +1,4 @@
+// Part 2: MongoDB operations for FlexiMart
 /* =========================================================
    MongoDB Operations – FlexiMart Product Catalog
    Database: fleximart_nosql
