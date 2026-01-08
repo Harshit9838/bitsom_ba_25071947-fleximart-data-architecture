@@ -1,4 +1,4 @@
-# Harshit-fleximart-data-architecture
+# bitsom_ba_25071947-fleximart-data-architecture
 
 # FlexiMart Data Architecture Project
 
